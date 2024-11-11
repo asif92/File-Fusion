@@ -7,5 +7,5 @@ convert("project_proposal_template.docx")
 # Converting docx specifying both the input and output paths
 convert("input\project_proposal_template.docx", "output\project_proposal_template.pdf")
 
-# Bulk Conversion
+# Bulk Conversion (By specifying the input folder)
 convert("input\")

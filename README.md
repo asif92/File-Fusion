@@ -9,4 +9,3 @@ File Fusion is a versatile Python-based tool designed to streamline the process 
     - Converting docx present in the same folder
     - Converting docx by specifying both the input and output paths
     - Bulk Conversion (By specifying the input folder)
-
